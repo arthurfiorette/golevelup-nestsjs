@@ -1,9 +1,9 @@
 {
-  "name": "@golevelup/nestjs-stripe",
-  "version": "0.10.0",
+  "name": "@arthurfiorette/golevelup-nestjs-stripe",
+  "version": "0.0.1",
   "description": "Badass utilities for integrating stripe and NestJS",
   "author": "Jesse Carter <jesse.r.carter@gmail.com>",
-  "homepage": "https://github.com/golevelup/nestjs#readme",
+  "homepage": "https://github.com/arthurfiorette/golevelup-nestsjs#readme",
   "license": "MIT",
   "keywords": [
     "NestJS",
@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/golevelup/nestjs.git"
+    "url": "git+https://github.com/arthurfiorette/golevelup-nestsjs.git"
   },
   "scripts": {
     "build": "tsc --build tsconfig.build.json",
@@ -30,7 +30,7 @@
     "test": "jest"
   },
   "bugs": {
-    "url": "https://github.com/golevelup/nestjs/issues"
+    "url": "https://github.com/arthurfiorette/golevelup-nestsjs/issues"
   },
   "publishConfig": {
     "access": "public"
